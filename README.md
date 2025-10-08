@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prasit
 ===============================================================================================================================
 
-https://komarev.com/ghpvc/?username=your-github-username&color=green
-
+![](https://komarev.com/ghpvc/?username=iqx2024byte-username&color=green)
 I'm Programer so god
 --------------------
 
